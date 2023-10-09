@@ -1,4 +1,4 @@
-### HOLAAAAA!!!! 👋
+Cristian Ortega
 
 - Mi nombre es Cristian Ortega.
 - 🔭 Actualmente estoy trabajando en una administracion de fincas.
