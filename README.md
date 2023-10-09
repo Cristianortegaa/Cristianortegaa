@@ -1,4 +1,4 @@
-Cristian Ortega
+CRISTIAN ORTEGA
 
 - Mi nombre es Cristian Ortega.
 - 🔭 Actualmente estoy trabajando en una administracion de fincas.
