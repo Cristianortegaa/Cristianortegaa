@@ -45,7 +45,7 @@
 ## 📫 Contacto
 
 - ✉️ Email: cibercristian2003@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/cristian-ortega-undefined-800521330
+- 💼 LinkedIn: www.linkedin.com/in/cristianortegagonzalez
 - 💻 Portfolio: *Próximamente...*
 
 ---
