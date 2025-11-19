@@ -15,9 +15,9 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- ⚙️ Lenguajes: `Java`, `JavaScript`, `Kotlin`, `HTML`, `CSS`, `SQL`
-- 🧰 Herramientas: `Git`, `GitHub`, `IntelliJ IDEA`, `VSCode`, `MySQL`, `SQLite`, `Scene Builder`
-- 🌐 Frameworks: `JavaFX`, `Bootstrap` (en aprendizaje)
+- ⚙️ Lenguajes: `Java`, `JavaScript`, `Kotlin`, `HTML`, `CSS`, `C#`
+- 🧰 Herramientas: `Git`, `GitHub`, `IntelliJ IDEA`, `VSCode`, `MySQL`, `SQLite`, `Scene Builder`, `MongoDB`, `PostgreSQL`
+- 🌐 Frameworks: `JavaFX`, `Bootstrap` , `Tailwind`, `Spring`, `.NET`
 
 ---
 
@@ -25,14 +25,14 @@
 
 > Aquí puedes añadir tus proyectos más importantes. Algunos ejemplos:
 
+- 📌 [Sitio de Eventos con HTML/CSS/JS](https://salakoalafuenlabrada.es)
+  - Proyecto web para un sala de eventos de fiestas de cumpleaños para niños.
+
 - 📌 [Gestor de Plantilla Deportiva (JavaFX + SQLite)](https://github.com/Cristianortegaa/gestor-plantilla)
   - Aplicación de escritorio para gestionar jugadores, entrenadores, estadísticas y convocatorias.
 
-- 📌 [Tienda online con HTML/CSS/JS](https://github.com/Cristianortegaa/tienda-nexi)
-  - Proyecto web para simular una tienda online con diseño responsive y funcionalidades básicas.
-
-- 📌 [Calculadora JavaFX](https://github.com/Cristianortegaa/calculadora-javafx)
-  - Calculadora funcional de escritorio con interfaz moderna creada con JavaFX y Scene Builder.
+- 📌 [API de camisetas](https://github.com/Cristianortegaa/CAMISAPI)
+  - Api de camisetas trabajada en equipo en javascript con bases de datos como MongoDB y PostgreSQL.
 
 ---
 
